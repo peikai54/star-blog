@@ -1,0 +1,3 @@
+- [Golang 服务端开发](/server/READEME.md)
+  - [从零开始搭建一个后端应用](/server/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%90%8E%E7%AB%AF%E5%BA%94%E7%94%A8.md)
+  - [MySql 基础之主键、外键与关联查询](/server/MySql%E5%9F%BA%E7%A1%80%E4%B9%8B%E4%B8%BB%E9%94%AE%E3%80%81%E5%A4%96%E9%94%AE%E4%B8%8E%E5%85%B3%E8%81%94%E6%9F%A5%E8%AF%A2.md)
